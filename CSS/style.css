@@ -598,6 +598,9 @@ body {
   font-weight: bold;
   font-size: 0.875rem;
 }
+.link-content a:hover {
+  text-decoration: underline;
+}
 .link-content ul {
   display: flex;
   column-gap: 19px;
